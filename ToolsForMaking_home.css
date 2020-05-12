@@ -8,6 +8,7 @@
   display:inline-block;
   margin:10px;
   font-family:courier;
+  font-size:20px;
 }
 .header-list {
   display:inline-block;
@@ -27,7 +28,9 @@
   width:14%;
   list-style: none;
 }
-
+.footer{
+  margin-top:100px;
+}
 .footer ul{
   margin-top:0px;
 }
