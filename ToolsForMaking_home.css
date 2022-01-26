@@ -206,7 +206,7 @@ h1{
     margin:0 auto;
     text-align:left;
   }
-  .header-list{
+  .header-list li{
     font-size:36px;
   }
   .header{
