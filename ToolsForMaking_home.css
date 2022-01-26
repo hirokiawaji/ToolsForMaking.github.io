@@ -7,8 +7,9 @@
 .header-list li{
   display:inline-block;
   margin:10px;
-  font-family:courier;
-  font-size:20px;
+  font-family:serif;
+  font-size:24px;
+  font-weight:lighter;
 }
 .header-list {
   display:inline-block;
@@ -17,11 +18,14 @@
 .icon{
   display:inline-block;
   font-family:serif;
-  margin-left:30px;
+  margin-left:48px;
   font-weight:bold;
 }
 .header{
   height:50px;
+}
+.main{
+  margin-top:50px;
 }
 .main li{
   display:inline-block;
@@ -30,6 +34,7 @@
 }
 .footer{
   margin-top:100px;
+  margin-bottom:100px;
 }
 .footer ul{
   margin-top:0px;
